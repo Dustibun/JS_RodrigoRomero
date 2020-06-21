@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Arquitecto';
+  src: url("../../lib/Fuentes/ArchitectsDaughter-Regular.ttf");
+}
+
+form{
+  background-color: red;
+}
+div{
+  border: 5px;
+  border-style: dashed;
+  background: rgba(90, 38, 136, 0.29);
+}
+p{
+  font-weight: bold;
+}
+.blue{
+  color: blue;
+  text-decoration-line: underline;
+  font-style: serif;
+}
+.red{
+  color: red;
+}
+.italic{
+  font-style: italic;
+}
+/*Agregar fuentes

@@ -1,0 +1,23 @@
+body{
+  background-color: #B3FFF2;
+}
+table{
+  background-color: black;
+}
+td{
+  width: 30px;
+  height: 30px;
+}
+td:nth-child(odd){
+  background-color: #B3A574;
+}
+td:nth-child(2n){
+  background-color: #FECCFF;
+}
+.inpar:nth-child(odd){
+  background-color: #FECCFF;
+}
+
+.inpar:nth-child(2n){
+  background-color: #B3A574;
+}
